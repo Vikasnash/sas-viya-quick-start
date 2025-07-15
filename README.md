@@ -23,6 +23,28 @@ The following videos are included in the Quick Start series:
 - [SAS Visual Analytics 1 for SAS® Viya: Basics](https://learn.sas.com/course/view.php?id=241)
 - [SAS® Visual Analytics 2 for SAS® Viya®: Advanced](https://learn.sas.com/course/view.php?id=244)
 
+# Top 5 Things to Know for Using SAS Visual Analytics
+
+### [Summary](https://communities.sas.com/t5/SAS-Communities-Library/Top-5-Things-you-need-to-know-for-using-SAS-Visual-Analytics/ta-p/855258)
+There you have it, the Top 5 things to know for using SAS Visual Analytics.
+
+1. **Select Data, Pick an Object, & Assign Roles**  
+   Begin by selecting your dataset, choosing a visualization object (e.g., bar chart, pie chart), and assigning roles like category or measure. SAS Visual Analytics can also auto-chart based on the data you drag onto the canvas.
+
+2. **Report Prompts & Page Prompts**  
+   Use prompts to filter data dynamically. Report prompts apply across the entire report, while page prompts affect only the current page, allowing for more targeted filtering.
+
+3. **Actions: Automatic & Manual**  
+   Set up interactions between report elements. Automatic actions like brushing highlight related data, while manual actions allow for customized linking and filtering.
+
+4. **Multiple Data Sources**  
+   Integrate and analyze data from various sources within a single report. Use joins or linking techniques to relate different datasets effectively.
+
+5. **Create New Data Items**  
+   Enhance your reports by creating calculated fields, aggregated measures, or custom categories directly within SAS Visual Analytics.
+
+---
+
 ### Installation
 
 1.	Visit https://github.com/sassoftware/sas-viya-quick-start and click **Code** > **Download ZIP**. 
