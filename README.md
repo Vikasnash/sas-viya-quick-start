@@ -22,6 +22,7 @@ The following videos are included in the Quick Start series:
 - [Use the Python SWAT Package on the SAS Viya Platform](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6332198984112/use-the-python-swat-package-on-the-sas-viya-platform?autoStart=true)
 - [SAS Visual Analytics 1 for SAS® Viya: Basics](https://learn.sas.com/course/view.php?id=241)
 - [SAS® Visual Analytics 2 for SAS® Viya®: Advanced](https://learn.sas.com/course/view.php?id=244)
+- [Explore and Visualize: Getting Started](https://learn.sas.com/mod/scormddl/scormplayer.php?scoid=2348&language=1196&scormid=1196)
 
 ---
 
