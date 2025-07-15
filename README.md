@@ -23,6 +23,8 @@ The following videos are included in the Quick Start series:
 - [SAS Visual Analytics 1 for SAS® Viya: Basics](https://learn.sas.com/course/view.php?id=241)
 - [SAS® Visual Analytics 2 for SAS® Viya®: Advanced](https://learn.sas.com/course/view.php?id=244)
 
+---
+
 # Top 5 Things to Know for Using SAS Visual Analytics
 
 ### [Summary](https://communities.sas.com/t5/SAS-Communities-Library/Top-5-Things-you-need-to-know-for-using-SAS-Visual-Analytics/ta-p/855258)
